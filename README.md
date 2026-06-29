@@ -2,6 +2,11 @@
 
 Aplicação de um modelo de Árvore de Decisão a um problema de classificação binária, com o objetivo de prever a tendência de um paciente desenvolver doença cardíaca a partir de indicadores clínicos e laboratoriais. O notebook inclui introdução teórica às principais métricas de avaliação de modelos de classificação, com exemplos didáticos antes da modelagem.
 
+
+<img width="884" height="299" alt="arvore-hearth" src="https://github.com/user-attachments/assets/72a79d1c-1852-40ad-871e-45e265e78862" />
+
+
+
 ## Dataset
 
 Heart Failure Prediction Dataset — Kaggle (fedesoriano). 918 pacientes, 11 variáveis preditoras, 1 variável-alvo (HeartDisease: 0 = saudável, 1 = doença cardíaca).
